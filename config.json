@@ -1,0 +1,5 @@
+{
+  "githubToken": "YOUR_TOKEN",
+  "defaultPrivacy": "public",
+  "notificationsEnabled": true
+}
